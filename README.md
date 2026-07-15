@@ -19,10 +19,10 @@
 
 ## 按问题查专题
 
-- [首次充值、plan、credit 与失败排查](https://larksim.com/guide/giffgaff-top-up?utm_source=github&utm_medium=organic&utm_campaign=2026-07-giffgaff-guides&utm_content=github-top-up)
-- [中国漫游价格、收短信与旅行流量包](https://larksim.com/guide/giffgaff-china-roaming?utm_source=github&utm_medium=organic&utm_campaign=2026-07-giffgaff-guides&utm_content=github-china-roaming)
-- [查号码、关语音信箱、换号、补卡与 APN](https://larksim.com/guide/giffgaff-common-operations?utm_source=github&utm_medium=organic&utm_campaign=2026-07-giffgaff-guides&utm_content=github-common-operations)
-- [收短信与验证码收不到判断流程](https://larksim.com/guide/giffgaff-sms-verification?utm_source=github&utm_medium=organic&utm_campaign=2026-07-giffgaff-guides&utm_content=github-sms-verification)
+- [首次充值、plan、credit 与失败排查](https://larksim.com/guide/giffgaff-activate?utm_source=github&utm_medium=organic&utm_campaign=2026-07-giffgaff-guides&utm_content=github-top-up)
+- [中国大陆使用、漫游与旅行流量包](https://larksim.com/guide/giffgaff-guide?utm_source=github&utm_medium=organic&utm_campaign=2026-07-giffgaff-guides&utm_content=github-china-roaming)
+- [激活后没信号、APN 与常见排查](https://larksim.com/guide/giffgaff-activate?utm_source=github&utm_medium=organic&utm_campaign=2026-07-giffgaff-guides&utm_content=github-common-operations)
+- [长期收短信前先做好保号](https://larksim.com/guide/giffgaff-keep-number?utm_source=github&utm_medium=organic&utm_campaign=2026-07-giffgaff-guides&utm_content=github-sms-verification)
 
 ## 一、激活前准备
 
@@ -63,7 +63,7 @@
 | plan | 在有效期内提供一定额度的流量、通话和短信，适合日常使用 |
 | credit | 按实际使用扣费，也用于部分套餐外、国际或漫游服务 |
 
-价格、额度、续费方式会变化，不要把旧截图当作当前价格表。下单前以 giffgaff 页面为准，也可先读 [plan 与 credit 中文选择指南](https://larksim.com/guide/giffgaff-plans?utm_source=github&utm_medium=organic&utm_campaign=2026-07-giffgaff-guides&utm_content=github-giffgaff-guide-readme)。
+价格、额度、续费方式会变化，不要把旧截图当作当前价格表。下单前以 giffgaff 页面为准，也可先读 [激活、plan 与 credit 中文指南](https://larksim.com/guide/giffgaff-activate?utm_source=github&utm_medium=organic&utm_campaign=2026-07-giffgaff-guides&utm_content=github-giffgaff-guide-readme)。
 
 ### 5. 等待开通并测试
 
@@ -142,7 +142,7 @@
 
 官方参考：[Switching to an eSIM with giffgaff](https://help.giffgaff.com/en/articles/261570-switching-to-an-esim-with-giffgaff)
 
-中文说明：[giffgaff eSIM 申请与激活指南](https://larksim.com/guide/giffgaff-esim-guide?utm_source=github&utm_medium=organic&utm_campaign=2026-07-giffgaff-guides&utm_content=github-giffgaff-guide-readme)
+中文说明：[英国实体卡与 eSIM 对比指南](https://larksim.com/guide/uk-sim-vs-esim?utm_source=github&utm_medium=organic&utm_campaign=2026-07-giffgaff-guides&utm_content=github-giffgaff-guide-readme)
 
 ### 在中国大陆可以使用吗？
 
