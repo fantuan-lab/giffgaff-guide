@@ -1,5 +1,7 @@
 # 英国实体 SIM 卡 giffgaff 激活使用教程（2026）
 
+👉 **购买英国 giffgaff 实体 SIM 卡：** [LarkSim 国内现货，立即查看](https://larksim.com/sim/giffgaff?utm_source=github&utm_medium=organic&utm_campaign=2026-07-giffgaff-guides&utm_content=github-readme-first-line)
+
 这是一份面向中文用户的独立使用指南，集中说明英国 giffgaff 实体 SIM 卡的激活、充值、保号和常见故障。
 
 > 最后核对：2026-07-15。giffgaff 的页面、套餐和规则可能调整，实际操作请以官方页面和 App 当天显示为准。本指南与 giffgaff 官方没有隶属或授权关系。
