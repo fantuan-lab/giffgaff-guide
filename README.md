@@ -11,7 +11,14 @@
 3. 激活通常很快，特殊情况下可能需要最多 24 小时。
 4. 想长期保留号码，每 6 个月至少完成一次符合官方规则的主动使用或购买行为。
 
-需要更完整的中文全流程说明，可看 [giffgaff 从购卡到保号完全指南](https://larksim.com/guide/giffgaff-guide?utm_source=github&utm_medium=organic&utm_campaign=2026-07-launch&utm_content=github-giffgaff-guide-readme)。
+需要更完整的中文全流程说明，可看 [giffgaff 从购卡到保号完全指南](https://larksim.com/guide/giffgaff-guide?utm_source=github&utm_medium=organic&utm_campaign=2026-07-giffgaff-guides&utm_content=github-giffgaff-guide-readme)。
+
+## 按问题查专题
+
+- [首次充值、plan、credit 与失败排查](https://larksim.com/guide/giffgaff-top-up?utm_source=github&utm_medium=organic&utm_campaign=2026-07-giffgaff-guides&utm_content=github-top-up)
+- [中国漫游价格、收短信与旅行流量包](https://larksim.com/guide/giffgaff-china-roaming?utm_source=github&utm_medium=organic&utm_campaign=2026-07-giffgaff-guides&utm_content=github-china-roaming)
+- [查号码、关语音信箱、换号、补卡与 APN](https://larksim.com/guide/giffgaff-common-operations?utm_source=github&utm_medium=organic&utm_campaign=2026-07-giffgaff-guides&utm_content=github-common-operations)
+- [收短信与验证码收不到判断流程](https://larksim.com/guide/giffgaff-sms-verification?utm_source=github&utm_medium=organic&utm_campaign=2026-07-giffgaff-guides&utm_content=github-sms-verification)
 
 ## 一、激活前准备
 
@@ -25,7 +32,7 @@
 
 不要把账户密码、邮箱恢复信息或支付信息交给陌生人操作。账户应由实际使用者自己注册和保管。
 
-如果还没有卡，可先查看 [英国 giffgaff 实体 SIM 卡说明](https://larksim.com/sim/giffgaff?utm_source=github&utm_medium=organic&utm_campaign=2026-07-launch&utm_content=github-giffgaff-guide-readme)。
+如果还没有卡，可先查看 [英国 giffgaff 实体 SIM 卡说明](https://larksim.com/sim/giffgaff?utm_source=github&utm_medium=organic&utm_campaign=2026-07-giffgaff-guides&utm_content=github-giffgaff-guide-readme)。
 
 ## 二、giffgaff 实体 SIM 卡激活步骤
 
@@ -52,7 +59,7 @@
 | plan | 在有效期内提供一定额度的流量、通话和短信，适合日常使用 |
 | credit | 按实际使用扣费，也用于部分套餐外、国际或漫游服务 |
 
-价格、额度、续费方式会变化，不要把旧截图当作当前价格表。下单前以 giffgaff 页面为准，也可先读 [plan 与 credit 中文选择指南](https://larksim.com/guide/giffgaff-plans?utm_source=github&utm_medium=organic&utm_campaign=2026-07-launch&utm_content=github-giffgaff-guide-readme)。
+价格、额度、续费方式会变化，不要把旧截图当作当前价格表。下单前以 giffgaff 页面为准，也可先读 [plan 与 credit 中文选择指南](https://larksim.com/guide/giffgaff-plans?utm_source=github&utm_medium=organic&utm_campaign=2026-07-giffgaff-guides&utm_content=github-giffgaff-guide-readme)。
 
 ### 5. 等待开通并测试
 
@@ -60,7 +67,7 @@
 
 开通后可在 giffgaff App 或账户 Dashboard 查看号码；也可以用这张卡发送 `NUMBER` 到 `43430` 查询。
 
-更细的页面提示和故障处理见 [giffgaff 激活与充值中文教程](https://larksim.com/guide/giffgaff-activate?utm_source=github&utm_medium=organic&utm_campaign=2026-07-launch&utm_content=github-giffgaff-guide-readme)。
+更细的页面提示和故障处理见 [giffgaff 激活与充值中文教程](https://larksim.com/guide/giffgaff-activate?utm_source=github&utm_medium=organic&utm_campaign=2026-07-giffgaff-guides&utm_content=github-giffgaff-guide-readme)。
 
 ## 三、怎么充值
 
@@ -94,7 +101,7 @@
 
 紧急号码、Member Services、0800 号码和其他免费号码不计入上述主动使用。只接收来电或短信也不应当作为保号依据。
 
-建议每 5 个月设置一次日历提醒，完成后保留短信发送记录、通话记录或购买记录。完整说明见 [giffgaff 回国保号教程](https://larksim.com/guide/giffgaff-keep-number?utm_source=github&utm_medium=organic&utm_campaign=2026-07-launch&utm_content=github-giffgaff-guide-readme)。
+建议每 5 个月设置一次日历提醒，完成后保留短信发送记录、通话记录或购买记录。完整说明见 [giffgaff 回国保号教程](https://larksim.com/guide/giffgaff-keep-number?utm_source=github&utm_medium=organic&utm_campaign=2026-07-giffgaff-guides&utm_content=github-giffgaff-guide-readme)。
 
 号码因不活跃被停用后，原 SIM 不能直接重新激活。官方说明，停用后 30 天内可向客服申请 PAC，把号码转到其他英国运营商；超过期限后号码可能被回收。
 
@@ -131,7 +138,7 @@
 
 官方参考：[Switching to an eSIM with giffgaff](https://help.giffgaff.com/en/articles/261570-switching-to-an-esim-with-giffgaff)
 
-中文说明：[giffgaff eSIM 申请与激活指南](https://larksim.com/guide/giffgaff-esim-guide?utm_source=github&utm_medium=organic&utm_campaign=2026-07-launch&utm_content=github-giffgaff-guide-readme)
+中文说明：[giffgaff eSIM 申请与激活指南](https://larksim.com/guide/giffgaff-esim-guide?utm_source=github&utm_medium=organic&utm_campaign=2026-07-giffgaff-guides&utm_content=github-giffgaff-guide-readme)
 
 ### 在中国大陆可以使用吗？
 
