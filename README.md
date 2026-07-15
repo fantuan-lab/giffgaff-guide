@@ -6,6 +6,8 @@
 
 这是一份面向中文用户的独立使用指南，集中说明英国 giffgaff 实体 SIM 卡的激活、充值、保号和常见故障。
 
+> 实拍截图来自[作者发布在 X 的原始图文](https://x.com/fantuantalk/status/2074037528181760435)，已筛除含真实地址、支付信息或其他个人隐私的画面。giffgaff 页面可能更新，操作时以当天实际界面为准。
+>
 > 最后核对：2026-07-15。giffgaff 的页面、套餐和规则可能调整，实际操作请以官方页面和 App 当天显示为准。本指南与 giffgaff 官方没有隶属或授权关系。
 
 ## 先看结论
@@ -46,13 +48,37 @@
 
 确认域名是 `giffgaff.com`，不要在来历不明的页面输入卡号或付款信息。
 
+![giffgaff 官网 Activate your SIM 激活入口](images/01-open-activation-page.jpg)
+
+*图 1：在 giffgaff 官网找到 “Activate your SIM”。*
+
 ### 2. 输入激活码
 
 输入 SIM 包装上的激活码。如果包装丢失或激活码无法辨认，可以按官方说明改用卡片上的 13 位 SIM serial number。
 
+![giffgaff 输入 6 位 SIM 激活码页面](images/02-enter-activation-code.jpg)
+
+*图 2：输入卡包装上的 6 位激活码。*
+
 ### 3. 创建自己的 giffgaff 账户
 
 按页面提示填写邮箱、设置密码并完成账户创建。请使用自己能够长期访问的邮箱，之后查询余额、更换 SIM、管理套餐都要用到这个账户。
+
+![giffgaff 账户注册填写邮箱](images/03-enter-email.jpg)
+
+*图 3：填写自己能够长期访问的邮箱。*
+
+![giffgaff 账户注册确认邮箱](images/04-confirm-email.jpg)
+
+*图 4：再次确认邮箱，避免后续无法登录。*
+
+![giffgaff 账户注册创建密码](images/05-create-password.jpg)
+
+*图 5：为自己的 giffgaff 账户创建密码。*
+
+![giffgaff 账户注册营销偏好设置](images/06-marketing-preferences.jpg)
+
+*图 6：按个人需要选择消息与营销偏好。*
 
 ### 4. 选择 plan 或添加 credit
 
@@ -63,11 +89,27 @@
 | plan | 在有效期内提供一定额度的流量、通话和短信，适合日常使用 |
 | credit | 按实际使用扣费，也用于部分套餐外、国际或漫游服务 |
 
+![giffgaff 激活时选择 pay as you go](images/07-choose-payg.jpg)
+
+*图 7：需要按量使用时，可选择 pay as you go。*
+
+![giffgaff 添加 airtime credit 余额](images/08-add-credit.jpg)
+
+*图 8：按页面提示添加 airtime credit。*
+
 价格、额度、续费方式会变化，不要把旧截图当作当前价格表。下单前以 giffgaff 页面为准，也可先读 [激活、plan 与 credit 中文指南](https://larksim.com/guide/giffgaff-activate?utm_source=github&utm_medium=organic&utm_campaign=2026-07-giffgaff-guides&utm_content=github-giffgaff-guide-readme)。
 
 ### 5. 等待开通并测试
 
 完成页面步骤后，将 SIM 放入兼容的无锁手机，重新开机并等待网络注册。官方说明激活通常较快，但少数情况可能需要最多 24 小时。
+
+![giffgaff Dashboard 查看 plan 与 credit 余额](images/11-account-balance.jpg)
+
+*图 9：激活后可在 Dashboard 查看 plan 与 credit 状态。*
+
+![giffgaff 激活成功欢迎短信](images/12-welcome-message.png)
+
+*图 10：收到欢迎短信后，再检查网络、号码与余额。*
 
 开通后可在 giffgaff App 或账户 Dashboard 查看号码；也可以用这张卡发送 `NUMBER` 到 `43430` 查询。
 
@@ -89,6 +131,14 @@
 ### 使用充值券
 
 有效充值券通常包含 16 位 voucher code。可以在官方充值页面兑换，或从 giffgaff 手机拨打 `43430` 按语音提示操作。
+
+![giffgaff 选择 voucher 充值方式](images/09-voucher-option.jpg)
+
+*图 11：在充值流程中选择 voucher。*
+
+![giffgaff 输入 16 位 voucher code 页面](images/10-voucher-code.jpg)
+
+*图 12：按页面要求填写本人真实资料，再输入 16 位 voucher code。*
 
 官方参考：
 
